@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages. Esto es una prueba del curso de cousera
+## Welcome to GitHub Pages. Esto es una prueba del curso de cousera junto con uniquindio.
 
 You can use the [editor on GitHub](https://github.com/AndresRamirezMunoz/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
